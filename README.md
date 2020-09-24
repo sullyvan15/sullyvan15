@@ -12,5 +12,5 @@ Algumas coisas sobre mim:
 
 Sobre este repositório pessoal:
 
-- Está organizado em 6 grandes resposítorios para organizar melhor os tipos de projetos que realizo. Algumas pastas podem parecer vazias, mas só estão com os arquivos privados temporiariamente.
+- Está organizado em 6 grandes resposítorios fixados para organizar melhor os tipos de projetos que realizo. Algumas pastas podem parecer vazias, mas só estão com os arquivos privados temporiariamente.
 - Devido à algumas vulnerabilidades de segurança nas depedências de algumas pastas, reorganizei e limpei o repositório, com isso, algumas contribuições realizadas foram afetadas.
