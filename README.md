@@ -12,5 +12,5 @@ Algumas coisas sobre mim:
 <h2 align="center">Github stats </h2>
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=sullyvan15&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=default)](https://github.com/sullyvan15)
-<align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sullyvan15&langs_count=10&layout=compact" alt="sullyyan15 :: Top linguagens" /></>
+<h2 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sullyvan15&langs_count=10&layout=compact" alt="sullyyan15 :: Top linguagens" /></h2>
 
