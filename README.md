@@ -1,23 +1,28 @@
 <h2 align="center">Site de resumo: </h2>
+
 # http://bit.ly/sullyvanmarks
 
 
 <h2 align="center">Sobre mim: </h2>
+
 Eu sou Sullyvan Marks, tenho 19 anos, atualmente sou estudante de Ciência da Computação (atualmente 5° Período) pela Universidade de Vila Velha. Na tecnologia, iniciei meus passos em 2015 produzindo conteúdos audiovisuais e escritos sobre dispositivos mobile e segurança da informação. Em 2019, começo a trabalhar com programação, em trabalhos freelancer em plataformas, como GetNinjas. De lá para cá, já foram mais de 20 mil linhas de códigos já escritos, desde trabalhos acadêmicos, até desenvolvimento de sistemas, nas mais diversas linguagens de programação e em diferentes escopo de projeto.
 
 <h2 align="center">Certificados e trabalhos: </h2>
-. https://www.linkedin.com/in/sullyvanmarks/)
+
+    - https://www.linkedin.com/in/sullyvanmarks/)
 
 
 <h2 align="center">Outros trabalhos: </h2>
-. SM!Tech: https://www.youtube.com/smtechbr
-. Site: http://bit.ly/SMTechSite
+
+    - SM!Tech: https://www.youtube.com/smtechbr
+    - Site: http://bit.ly/SMTechSite
 
 <h2 align="center">Repositórios de apresentação </h2>
-- UVV: https://github.com/sullyvan15/Universidade-Vila-Velha
-- Projetos: https://github.com/sullyvan15/Projetos
-- Trabalhos: https://github.com/sullyvan15/Trabalhos
-- Competição: https://github.com/sullyvan15/Universidade-Vila-Velha
+
+    - UVV: https://github.com/sullyvan15/Universidade-Vila-Velha
+    - Projetos: https://github.com/sullyvan15/Projetos
+    - Trabalhos: https://github.com/sullyvan15/Trabalhos
+    - Competição: https://github.com/sullyvan15/Universidade-Vila-Velha
 
 
 
